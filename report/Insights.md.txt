@@ -1,0 +1,71 @@
+# Nigeria Education Sector Spending: Key Findings & Recommendations
+### By Winning David | May 2026
+
+---
+
+## Finding 1: Nigeria Has Never Met the UNESCO Education Funding Benchmark
+
+**What the data shows:** Between 2015 and 2025 Nigeria allocated an
+average of 6.57% of its federal budget to education, less than half
+of UNESCO's recommended 15-20% minimum threshold. 2023 recorded the
+worst funding gap at 9.79 percentage points below the benchmark.
+
+**Why it matters:** Chronic underfunding directly correlates with poor
+learning outcomes, high dropout rates, and inadequate school
+infrastructure across all 36 states.
+
+**Recommendation:** The federal government should legislate a minimum
+education budget floor of 15% backed by independent monitoring,
+similar to the approach used in Ghana and Rwanda which have shown
+measurable improvements in literacy rates after committing to
+UNESCO benchmarks.
+
+---
+
+## Finding 2: Nominal Growth Masks Declining Priority
+
+**What the data shows:** Nigeria's education budget grew by 421% in
+naira terms from 483.2 billion naira in 2015 to 2.52 trillion naira
+in 2025. However the percentage of the total federal budget allocated
+to education fell from 10.75% in 2015 to 5.47% in 2025, a 49%
+decline in relative priority over the same period.
+
+**Why it matters:** Naira figures are misleading due to inflation and
+currency devaluation. The real measure of government commitment is
+budget share not nominal figures. Nigeria is spending more money but
+treating education as a lower priority every year.
+
+**Recommendation:** Budget reporting should be standardized to show
+education spending as a percentage of total budget and GDP, not
+just nominal naira figures, to give citizens and policymakers an
+accurate picture of funding trends.
+
+---
+
+## Finding 3: Political Cycle Drives Budget Decisions
+
+**What the data shows:** Year on year growth analysis reveals 4 years
+of negative growth in 2016, 2017, 2019, and 2020, with the largest
+single year increase of 58.49% occurring in 2025 under the Tinubu
+administration. Budget cuts consistently follow election years.
+
+**Why it matters:** Education funding driven by political cycles rather
+than long term planning creates instability in school funding, teacher
+hiring, and infrastructure development.
+
+**Recommendation:** Nigeria should establish a dedicated Education
+Stabilization Fund similar to sovereign wealth models, where a fixed
+percentage of oil revenue is ring-fenced for education spending
+regardless of annual budget pressures.
+
+---
+
+## Methodology
+
+Federal budget allocation figures sourced from Federal Budget Office
+Nigeria via dataphyteng. World Bank education expenditure indicators
+SE.XPD.TOTL.GB.ZS and SE.XPD.TOTL.GD.ZS were used. Data covers
+2015 to 2025 with World Bank figures available to 2022. SQL queries
+were written in SQLite via DB Browser for SQLite. Visualization was
+built in Tableau Public Desktop Edition. All data and SQL queries
+are available in the GitHub repository.
